@@ -2,7 +2,7 @@
 <div align="center">
   <img src="batman_logo.jpeg" alt="logo" width="140"  height="auto" />
   <br/>
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Microverse Readme Documentation</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -23,13 +23,13 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-**[Hello Microverse Project]** is a project required as part of the microverse  project tasks for day two, the project makes use of HTML and CSS to create a simple webbpage, the objective is to help students understand how to use the Git/Github, understand Github flows and the use of linters.
+**Hello Microverse Project** is a project required as part of the microverse  project tasks for day two, the project makes use of HTML and CSS to create a simple webbpage, the objective is to help students understand how to use the Git/Github, understand Github flows and the use of linters.
 
 ## 🛠 Built With <a name="HTML and CSS "></a>
 
@@ -38,14 +38,14 @@
 <details>
   <summary>HTML</summary>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>CSS</summary>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Express.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
@@ -72,52 +72,53 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Project use.
 - The Hello Microverse project is used to introduce students to fundamentals;
   - of html and css.
   - Use of linters
   - Basic github flows
 
-
+### Set ups <a name ="setup"> </a>
 To get a local copy up and running, follow these steps.
-- Go to the [github reepo](https://github.com/rychrr/hello_microverse)
+- Go to the hello_microverse [github repo](https://github.com/rychrr/hello_microverse)
 - Clone the repository to your local machine using:
    
    ```
       git clone git@github.com:rychrr/hello_microverse.git
    ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Prerequisites
+### Prerequisites <a name="prerequisites"></a>
 
 - [Lastest Version of Node JS and NPM](www.nodejs.com)
-- [Git](www.github.com)
+- Install [Git](www.github.com)
 - A compatible browser. We recommend Chrome, Safari, Edge and Firefox >5.0 and above
 
-### Install:
-Install this project with:
+### Install: <a name="install"></a>
+Install this project using:
 
    ```
       git clone git@github.com:rychrr/hello_microverse.git
    ```
 
-### Usage
+### Usage <a name="usage"> </a>
 To run the project, execute the following command:
 
   > simply launch the ***index.html***
 
-### Run tests
+### Run tests <a name="run-tests"> </a>
   - Not applicable for the project
 
-### Deployment
+### Deployment <a name="#triangular_flag_on_post-deployment"> </a>
 
 You can deploy this project by:
 -  Copying the project files to the deploynennt environment
 -  Running the index.html 
 
 <p align="right">(<a href=', back to top</a>)</p>
-<!-- AUTHORS -->
 
-## 👥 Authors <a name="Ejike Richard"></a>
+
+<!-- AUTHORS -->
+## 👥 Authors <a name="authors"></a>
 
 👤 **Ejike Richard**
 
@@ -135,7 +136,6 @@ You can deploy this project by:
 - [Interactions] **[Improving interactions with Javascript]**
 - [Design] **[More intuitive Designs and themes for Users]**
 - [Language] **[Including Site articule in Hindi, Spanish and French]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -155,7 +155,7 @@ Feel free to check the [issues page](https://github.com/microverseinc/curriculum
 If you like this project , please show your support by;
 -  Contributing to growth and improvement of our code base
 -  Donating by buying us a cup of coffee, (we support Crypto payments paid to rychardase.eth
--  Give us a Star 
+-  Give us a 5 Star 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,14 +163,22 @@ If you like this project , please show your support by;
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Bobson](https://github.com/KALUNGI-J-BOBSON) and [Clinton](https://github.com/clin2on3mun) for their support and guidiance during the project building.
+I would like to thank :
+- [Bobson](https://github.com/KALUNGI-J-BOBSON)
+- [Clinton](https://github.com/clin2on3mun) 
+
+for their support and guidiance during the project building.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
+  - Can I contribute to the project?
+    - Ans: Yes, we welcome contributions from the open source communitu
+  - How often is the code base update
+    - Ans: Frequently, we review the code and welcome requests for changes from the community  
 
-> Developers 
+### Developer
 - **[Developer]**
   - [Ejike Richard]
 - **[Experience]**
@@ -181,7 +189,7 @@ I would like to thank [Bobson](https://github.com/KALUNGI-J-BOBSON) and [Clinton
 <!-- LICENSE -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+## 📝 License <a name="license"> </a>
 This project is licensed under the [MIT](https://opensource.org/license/mit/) license.
 
 
