@@ -64,7 +64,7 @@
 
 ## 🚀 Live Demo <a name="Ejike Richard"></a>
 
-- [Live Demo Link](https://hellomverse.com)
+- Live demo comming soon 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,11 +106,7 @@ To run the project, execute the following command:
   > simply launch the ***index.html***
 
 ### Run tests
-
-To run tests, run the following command:
-
-```npx stylelint "**/*.css"
-```
+  - Not applicable for the project
 
 ### Deployment
 
@@ -183,5 +179,9 @@ I would like to thank [Bobson](https://github.com/KALUNGI-J-BOBSON) and [Clinton
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License
+This project is licensed under the [MIT](https://opensource.org/license/mit/) license.
+
+
