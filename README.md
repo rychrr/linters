@@ -112,10 +112,8 @@ To run the project, execute the following command:
 
 You can deploy this project by:
 -  Copying the project files to the deploynennt environment
--  Running the index.html 
-
-<p align="right">(<a href=', back to top</a>)</p>
-
+-  Running the index.html
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
